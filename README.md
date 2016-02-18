@@ -1,6 +1,8 @@
 # Code 201: Add a form
 Lab assignment for seattle-201d6
 
+This project is based off of a demo of a Code 201 class project; originally built by Scott Schmidt.
+
 ## Instructions
 
 Run and study this code to see how it works and what it does. What we want to do, in general, is add a form to the sales.html page so that data from the form is passed through the cookie stand constructor function and adds a new location to the table.
